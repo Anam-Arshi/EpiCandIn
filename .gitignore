@@ -1,0 +1,7 @@
+# Ignore large database files
+*.db
+/R_plots/
+*.zip
+*.xlsx
+*.csv
+*.sql

@@ -1,0 +1,113 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	font-family: "verdana", "sans-serif";
+}
+form{
+	display: inline-block;
+	margin-bottom: 0px;
+}
+header{
+	width: 1300px;
+	margin: auto;
+	font:"Verdana";
+}
+nav{
+	width: 1300px;
+	height: 130px;
+	margin:auto;
+	 background-image: linear-gradient(to right, #175161 , #1f728a, #2789a5, #17809E);
+	/*background-image: url("images/bgimg copy.jpg");*/
+	background-repeat: no-repeat;
+	background-size: 1300px 200px;
+	
+}
+
+.nav a{
+	text-decoration: none;
+	color: white;
+	font-size: 14px;
+	
+	
+}
+  #adv{
+	text-decoration: underline;
+	color: white;
+	font-size: 12px;
+	margin-bottom: 10px;
+	margin-right: 5px;
+	display: inline-block;
+	font-weight: normal;
+}
+.logo{
+	
+	display: inline-block;
+}
+
+.logo p{
+	font-size: 40px;
+	padding: 3px;
+	margin: 15px;
+	text-shadow: 1px 1px 3px black;
+	color: white;
+}
+.logo h3{
+	
+	padding: 3px;
+	margin-top: 0px;
+	margin: 15px;
+	color: white;
+	font-size: 20px;
+	
+}
+.logo a{
+	text-decoration: none;
+	color: white;
+}
+.nav{
+	
+	padding: 15px;
+	display: inline-block;
+	float: right;
+	margin-right: 0px;
+}
+.nav-buttons{
+ background-color: #31859C;
+  border: none;
+  color: white;
+  padding: 6px 8px;
+  font-size: 16px;
+  cursor: pointer;
+	font-weight: bold;
+	box-shadow: 1px 1px 2px 1px #125264;
+	
+	}
+.nav-buttons:hover{
+	background-color: white;
+	color: #125264;
+}
+
+
+
+.nav input[type=search] {
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 15px;
+  border: none;
+  size: 20;
+}
+#search-button {
+  padding: 6px 10px;
+  margin: 8px 1px;
+  background: darkgray;
+  font-size: 15px;
+  border: none;
+  cursor: pointer;
+}
+.social{
+	float: right;
+	padding-left: 60px;
+}
+
+
+
