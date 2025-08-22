@@ -30,6 +30,15 @@ https://epicandin.bicnirrh.res.in/
 
 ---
 
+## Citation
+
+If you use data or reference from this study, please cite it as follows:
+
+Kshitija Rahate, Anam Arshi, Ram Shankar Barai, Shuvechha Chakraborty, Susan Idicula-Thomas. EpiCandIn: An open online resource for epidemiology of Candida infections in India. Indian Journal of Medical Research (IJMR). ​
+DOI: [EpiCandIn doi](http://dx.doi.org/10.25259/ijmr_886_23)
+
+---
+
 ## License
 
 MIT License
