@@ -14,9 +14,9 @@ Visit the project on GitHub: [EpiCandIn Repository](https://github.com/your-user
 
 ## Screenshots
 
-![EpiCandIn Dashboard](images/dashboard.png)
+![EpiCandIn Dashboard](images/home.png)
 
-![EpiCandIn Data Form](images/data_form.png)
+![EpiCandIn Data Form](images/nic.png)
 
 ---
 
